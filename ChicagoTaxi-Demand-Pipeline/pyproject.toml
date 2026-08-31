@@ -12,6 +12,9 @@ requires-python = ">=3.11"
 authors = [
     {name = "DuqueOM", email = "DuqueOrtegaMutis@gmail.com"},
 ]
+maintainers = [
+    {name = "Anirudh Verma"},
+]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

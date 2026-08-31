@@ -4,7 +4,7 @@
 # Stage 1: Builder
 FROM python:3.11-slim-bookworm AS builder
 
-LABEL maintainer="DuqueOM <DuqueOrtegaMutis@gmail.com>" \
+LABEL maintainer="Anirudh Verma <https://github.com/AnirudhVermaCoding>" \
       version="1.0.0" \
       description="ChicagoTaxi Demand Pipeline — Batch demand prediction API"
 

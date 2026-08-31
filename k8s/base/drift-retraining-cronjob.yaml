@@ -33,7 +33,7 @@ spec:
                       name: github-retraining-token
                       key: token
                 - name: GITHUB_REPO
-                  value: "DuqueOM/ML-MLOps-Portfolio"
+                  value: "AnirudhVermaCoding/StockOps"
                 - name: GITHUB_WORKFLOW
                   value: "cml-training-comparison.yml"
                 # Drift thresholds — tune per model

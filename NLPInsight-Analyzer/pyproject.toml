@@ -12,6 +12,9 @@ license = {file = "LICENSE"}
 authors = [
     {name = "Duque Ortega Mutis (DuqueOM)", email = "DuqueOrtegaMutis@gmail.com"}
 ]
+maintainers = [
+    {name = "Anirudh Verma"}
+]
 keywords = ["nlp", "sentiment-analysis", "transformers", "deep-learning", "mlops"]
 classifiers = [
     "Development Status :: 4 - Beta",
@@ -55,9 +58,9 @@ monitoring = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/DuqueOM/ML-MLOps-Portfolio"
-Repository = "https://github.com/DuqueOM/ML-MLOps-Portfolio"
-Documentation = "https://github.com/DuqueOM/ML-MLOps-Portfolio/tree/main/NLPInsight-Analyzer"
+Homepage = "https://github.com/AnirudhVermaCoding/StockOps"
+Repository = "https://github.com/AnirudhVermaCoding/StockOps"
+Documentation = "https://github.com/AnirudhVermaCoding/StockOps/tree/main/NLPInsight-Analyzer"
 
 [tool.setuptools.packages.find]
 where = ["."]

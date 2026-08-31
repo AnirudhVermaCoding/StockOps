@@ -11,6 +11,9 @@ license = {text = "MIT"}
 authors = [
     {name = "Duque Ortega Mutis (DuqueOM)", email = "DuqueOrtegaMutis@gmail.com"}
 ]
+maintainers = [
+    {name = "Anirudh Verma"}
+]
 
 dependencies = []
 

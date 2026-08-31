@@ -3,7 +3,7 @@
 # Stage 1: Builder
 FROM python:3.13.14-slim-bookworm AS builder
 
-LABEL maintainer="DuqueOM <DuqueOrtegaMutis@gmail.com>" \
+LABEL maintainer="Anirudh Verma <https://github.com/AnirudhVermaCoding>" \
       version="3.0.0" \
       description="BankChurn Predictor — Bank customer churn prediction API"
 

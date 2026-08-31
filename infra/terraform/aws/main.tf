@@ -16,7 +16,7 @@ provider "aws" {
   default_tags {
     tags = {
       Project     = "ML-Portfolio"
-      Owner       = "DuqueOM"
+      Owner       = "AnirudhVermaCoding"
       Environment = var.environment
       ManagedBy   = "Terraform"
     }

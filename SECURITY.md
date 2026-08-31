@@ -14,12 +14,11 @@ If you discover a security vulnerability in this ML-MLOps Portfolio project, ple
 ### How to Report
 
 **Preferred Method:**
-- Send an email to: DuqueOrtegaMutis@gmail.com
-- Use the subject line: `Security Vulnerability Report - ML-MLOps-Portfolio`
+- Use GitHub's private vulnerability reporting: [Report Vulnerability](https://github.com/AnirudhVermaCoding/StockOps/security/advisories/new)
+- Use the subject line: `Security Vulnerability Report - StockOps`
 
 **Alternative Methods:**
-- GitHub's private vulnerability reporting: [Report Vulnerability](https://github.com/DuqueOM/ML-MLOps-Portfolio/security/advisories/new)
-- Direct message on LinkedIn: [Duque Ortega Mutis](https://linkedin.com/in/duqueom)
+- Open a public issue only when the report contains no sensitive exploit details.
 
 ### What to Include
 
@@ -97,19 +96,18 @@ We follow coordinated disclosure principles:
 Security researchers will be acknowledged in our security advisories unless they prefer to remain anonymous.
 
 ### Security Advisories
-- Published advisories: [GitHub Security Advisories](https://github.com/DuqueOM/ML-MLOps-Portfolio/security/advisories)
+- Published advisories: [GitHub Security Advisories](https://github.com/AnirudhVermaCoding/StockOps/security/advisories)
 - CVE assignments when applicable
 
 ## Security Contacts
 
 ### Security Team
-- **Lead**: Duque Ortega Mutis
-- **Email**: DuqueOrtegaMutis@gmail.com
-- **GitHub**: @DuqueOM
+- **Lead**: Anirudh Verma
+- **GitHub**: [@AnirudhVermaCoding](https://github.com/AnirudhVermaCoding)
 
 ### Emergency Contact
 For critical security issues requiring immediate attention:
-- **Emergency Email**: DuqueOrtegaMutis@gmail.com
+- **Private report**: [GitHub Security Advisories](https://github.com/AnirudhVermaCoding/StockOps/security/advisories/new)
 - **Response Time**: Within 24 hours
 
 ## Security Updates
@@ -138,4 +136,4 @@ This security policy is provided "as is" without warranty of any kind. We reserv
 
 ---
 
-**Last Updated**: February 2026  
+**Last Updated**: August 2026

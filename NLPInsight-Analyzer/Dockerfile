@@ -3,7 +3,7 @@
 # Stage 1: Builder
 FROM python:3.13.14-slim-bookworm AS builder
 
-LABEL maintainer="Duque Ortega Mutis (DuqueOM) <DuqueOrtegaMutis@gmail.com>"
+LABEL maintainer="Anirudh Verma <https://github.com/AnirudhVermaCoding>"
 LABEL project="NLPInsight-Analyzer"
 
 ENV PYTHONUNBUFFERED=1 \

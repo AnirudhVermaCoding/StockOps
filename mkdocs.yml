@@ -1,10 +1,10 @@
-site_name: Duque Ortega Mutis | MLOps & Production ML Portfolio
-site_description: Portfolio for early-career MLOps, Production ML, and Applied AI roles, built around operations experience and production-minded project evidence.
-site_author: Duque Ortega Mutis
-site_url: https://duqueom.github.io/ML-MLOps-Portfolio/
+site_name: StockOps | Multi-Cloud MLOps Portfolio
+site_description: Production ML services with FastAPI, Kubernetes, Terraform, monitoring, and multi-cloud deployment.
+site_author: Anirudh Verma
+site_url: https://anirudhvermacoding.github.io/StockOps/
 
-repo_name: DuqueOM/ML-MLOps-Portfolio
-repo_url: https://github.com/DuqueOM/ML-MLOps-Portfolio
+repo_name: AnirudhVermaCoding/StockOps
+repo_url: https://github.com/AnirudhVermaCoding/StockOps
 
 theme:
   name: material
@@ -100,11 +100,9 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/DuqueOM
-    - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/duqueom
+      link: https://github.com/AnirudhVermaCoding
 
 watch:
   - docs
 
-copyright: Copyright &copy; 2024-2026 Duque Ortega Mutis
+copyright: StockOps adaptation &copy; 2026 Anirudh Verma · Original work &copy; 2024-2026 Duque Ortega Mutis

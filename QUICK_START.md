@@ -100,8 +100,8 @@ curl -X POST "http://localhost:8003/predict" \
 
 ```bash
 # Clone repository
-git clone https://github.com/DuqueOM/ML-MLOps-Portfolio.git
-cd ML-MLOps-Portfolio
+git clone https://github.com/AnirudhVermaCoding/StockOps.git
+cd StockOps
 
 # Install dependencies (optional, for local development)
 make install

@@ -18,8 +18,8 @@ Quick reference for running, testing, and deploying the ML/MLOps Portfolio.
 - RAM: 8GB min (16GB recommended)
 
 ```bash
-git clone https://github.com/DuqueOM/ML-MLOps-Portfolio.git
-cd ML-MLOps-Portfolio
+git clone https://github.com/AnirudhVermaCoding/StockOps.git
+cd StockOps
 bash scripts/setup_demo_models.sh   # one-time model generation
 make docker-demo                     # start all services
 ```

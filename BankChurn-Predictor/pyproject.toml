@@ -12,6 +12,9 @@ license = {file = "LICENSE"}
 authors = [
     {name = "Duque Ortega Mutis (DuqueOM)", email = "DuqueOrtegaMutis@gmail.com"}
 ]
+maintainers = [
+    {name = "Anirudh Verma"}
+]
 keywords = ["machine-learning", "churn-prediction", "classification", "mlops"]
 classifiers = [
     "Development Status :: 4 - Beta",
@@ -65,9 +68,9 @@ advanced = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/DuqueOM/ML-MLOps-Portfolio"
-Repository = "https://github.com/DuqueOM/ML-MLOps-Portfolio"
-Documentation = "https://github.com/DuqueOM/ML-MLOps-Portfolio/tree/main/BankChurn-Predictor"
+Homepage = "https://github.com/AnirudhVermaCoding/StockOps"
+Repository = "https://github.com/AnirudhVermaCoding/StockOps"
+Documentation = "https://github.com/AnirudhVermaCoding/StockOps/tree/main/BankChurn-Predictor"
 
 [project.scripts]
 bankchurn = "main:main"
