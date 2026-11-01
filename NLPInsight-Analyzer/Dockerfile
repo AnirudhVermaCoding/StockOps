@@ -1,7 +1,7 @@
 # Multi-stage Dockerfile for NLPInsight Analyzer
 # Optimized for transformer model inference (CPU)
 # Stage 1: Builder
-FROM python:3.13.14-slim-bookworm AS builder
+FROM python:3.13.18-slim-bookworm AS builder
 
 LABEL maintainer="Anirudh Verma <https://github.com/AnirudhVermaCoding>"
 LABEL project="NLPInsight-Analyzer"
@@ -69,7 +69,7 @@ RUN python -m venv /opt/venv && \
     /opt/venv/bin/python -c "import fastapi, uvicorn, torch"
 
 # Stage 2: Runtime
-FROM python:3.13.14-slim-bookworm AS runtime
+FROM python:3.13.18-slim-bookworm AS runtime
 
 ENV PYTHONUNBUFFERED=1 \
     PYTHONDONTWRITEBYTECODE=1 \
